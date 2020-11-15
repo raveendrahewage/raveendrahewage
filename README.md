@@ -25,5 +25,5 @@
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raveendrahewage&show_icons=true&locale=en" alt="raveendrahewage" /></p>
 <summary>:zap: Most Used Languages</summary>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="400" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="300" />
 <img align="left" alt="RV's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveendrahewage" />
