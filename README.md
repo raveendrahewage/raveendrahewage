@@ -33,16 +33,11 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="RV's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=raveendrahewage&show_icons=true&hide_border=true" />
 
 </details>
-
-<br>
-
 <details>
   <summary>:zap: Most Used Languages</summary>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="320" />
-<img align="left" alt="RV's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveendrahewage" />
-
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="320" />
+  <img align="left" alt="RV's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveendrahewage" />
 </details>
