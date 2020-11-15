@@ -20,7 +20,7 @@
 <a href="https://www.hackerrank.com/hewagerv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hewagerv" height="30" width="40" /></a>
 </p>
 <br />
+<summary>:zap: Github  status</summary>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raveendrahewage&show_icons=true&locale=en" alt="raveendrahewage" /></p>
 <summary>:zap: Most Used Languages</summary>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="300" />
 <img align="left" alt="RV's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveendrahewage" />
