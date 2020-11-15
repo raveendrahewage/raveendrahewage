@@ -2,7 +2,7 @@
  <img align="right" alt="GIF" src="https://github.com/raveendrahewage/raveendrahewage/blob/main/5eKX.gif" width="500" height="320" />
 
 ## I'm a student  of  UCSC!!
-- ✍ You can find my projects here [portfolio]
+- ✍ You can find my projects here..
 - 🔭 I’m currently working on university  project.
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate on open source
