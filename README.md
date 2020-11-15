@@ -1,7 +1,5 @@
-### Hello, I'm RV  👋
-
- <img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="320" />
-
+### Hello, I'm RV
+ <img align="right" alt="GIF" src="https://github.com/raveendrahewage/raveendrahewage/blob/main/5eKX.gif" width="500" height="320" />
 
 ## I'm a student  of  UCSC!!
 - ✍ You can find my projects here [portfolio]
@@ -49,7 +47,7 @@
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="320" />
 <img align="left" alt="RV's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveendrahewage" />
 
 </details>
