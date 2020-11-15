@@ -1,5 +1,5 @@
 ### Hello, I'm RV
- <img align="right" alt="GIF" src="https://github.com/raveendrahewage/raveendrahewage/blob/main/animated-computer-image-0192.gif" width="400" height="300" />
+ <img align="right" alt="GIF" src="https://github.com/raveendrahewage/raveendrahewage/blob/main/animated-computer-image-0192.gif" width="300" height="300" />
 
 ## I'm a student  of  UCSC!!
 - ✍ You can find my projects here..
