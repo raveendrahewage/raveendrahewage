@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm RV</h1>
 <h3 align="center">I am student of UCSC.</h3>
+<img align="right" alt="GIF" src="https://github.com/raveendrahewage/raveendrahewage/blob/main/5eKX.gif" width="500" height="320" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raveendrahewage&label=Profile%20views&color=0e75b6&style=flat" alt="raveendrahewage" /> </p>
 
