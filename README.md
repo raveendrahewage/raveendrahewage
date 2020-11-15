@@ -1,5 +1,5 @@
 ### Hello, I'm RV
- <img align="right" alt="GIF" src="https://github.com/raveendrahewage/raveendrahewage/blob/main/5eKX.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/raveendrahewage/raveendrahewage/blob/main/5eKX.gif" width="500" height="300" />
 
 ## I'm a student  of  UCSC!!
 - ✍ You can find my projects here..
@@ -12,7 +12,6 @@
 <br />
 <br />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raveendrahewage" alt="raveendrahewage" /></a> </p>
-<br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rv" height="30" width="40" /></a>
@@ -26,5 +25,5 @@
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raveendrahewage&show_icons=true&locale=en" alt="raveendrahewage" /></p>
 <summary>:zap: Most Used Languages</summary>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="400" />
 <img align="left" alt="RV's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveendrahewage" />
