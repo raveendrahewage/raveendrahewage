@@ -22,4 +22,4 @@
 <summary>:zap: Github  status</summary>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raveendrahewage&show_icons=true&locale=en" alt="raveendrahewage" /></p>
 <summary>:zap: Most Used Languages</summary>
-<img align="left" alt="RV's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveendrahewage" />
+<p>&nbsp;<img align="left" alt="RV's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveendrahewage" /></p>
