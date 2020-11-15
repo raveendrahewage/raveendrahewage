@@ -1,6 +1,6 @@
 ### Hello, I'm RV
  <img align="right" alt="GIF" src="https://github.com/raveendrahewage/raveendrahewage/blob/main/5eKX.gif" width="500" height="320" />
-
+<br  />
 ## I'm a student  of  UCSC!!
 - ✍ You can find my projects here..
 - 🔭 I’m currently working on university  project.
@@ -10,7 +10,6 @@
 - 😄 Pronouns: RV
 - ⚡ Fun fact: I am a  poet.
 <br />
-<br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raveendrahewage" alt="raveendrahewage" /></a> </p>
 <br />
 <h3 align="left">Connect with me:</h3>
