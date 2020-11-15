@@ -1,5 +1,5 @@
 ### Hello, I'm RV
- <img align="right" alt="GIF" src="https://github.com/raveendrahewage/raveendrahewage/blob/main/5eKX.gif" width="500" height="300" />
+ <img align="right" alt="GIF" src="https://github.com/raveendrahewage/raveendrahewage/blob/main/5eKX.gif" width="600" height="300" />
 
 ## I'm a student  of  UCSC!!
 - ✍ You can find my projects here..
@@ -19,7 +19,6 @@
 <a href="https://instagram.com/_rv__h_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_rv__h_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hewagerv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hewagerv" height="30" width="40" /></a>
 </p>
-<br />
 <summary>:zap: Github  status</summary>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raveendrahewage&show_icons=true&locale=en" alt="raveendrahewage" /></p>
 <summary>:zap: Most Used Languages</summary>
