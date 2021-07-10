@@ -1,5 +1,5 @@
 ### Hello, I'm RV
- <img align="right" alt="GIF" src="https://assets10.lottiefiles.com/private_files/lf30_ow8fqzzg.json" width="300" height="280" />
+ <img align="right" alt="GIF" src="https://lottiefiles.com/65188-all-the-data-concept" width="300" height="280" />
 
 ## I'm a student  of  UCSC!!
 - ✍ You can find my projects here..
