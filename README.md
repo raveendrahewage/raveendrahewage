@@ -1,14 +1,5 @@
 ### Hello, I'm RV
  <img align="right" alt="GIF" src="https://github.com/raveendrahewage/raveendrahewage/blob/main/animated-computer-image-0192.gif" width="300" height="280" />
-
-## I'm a student  of  UCSC!!
-- ✍ You can find my projects here..
-- 🔭 I’m currently working on university  project.
-- 🌱 I’m currently learning everything.
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: RV
-- ⚡ Fun fact: I am a  poet.
 <br />
 <br />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raveendrahewage" alt="raveendrahewage" /></a> </p>
