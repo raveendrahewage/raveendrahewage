@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/raveendrahewage/raveendrahewage/blob/main/animated-computer-image-0192.gif" width="300" height="280" />
+<img align="center" alt="GIF" src="https://github.com/raveendrahewage/raveendrahewage/blob/main/animated-computer-image-0192.gif" width="300" height="280" />
 <br />
 <br />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raveendrahewage" alt="raveendrahewage" /></a> </p>
